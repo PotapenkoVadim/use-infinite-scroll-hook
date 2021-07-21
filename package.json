@@ -1,6 +1,6 @@
 {
   "name": "use-infinite-scroll-hook",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": false,
   "description": "React hook sets infinite scroll for your container.",
   "main": "lib/index.js",
